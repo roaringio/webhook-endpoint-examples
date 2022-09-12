@@ -1,0 +1,44 @@
+
+{
+  "adminSign": [
+    {
+      "anomalies": [
+        {
+          "anomalyCode": 0,
+          "anomalyDescription": "string"
+        }
+      ],
+      "name": "string",
+      "personalNumber": "string",
+      "positions": [
+        {
+          "roleCode": 0,
+          "roleName": "string"
+        }
+      ]
+    }
+  ],
+  "changeDate": "string",
+  "combinations": [
+    [
+      {
+        "anomalies": [
+          {
+            "anomalyCode": 0,
+            "anomalyDescription": "string"
+          }
+        ],
+        "name": "string",
+        "personalNumber": "string",
+        "positions": [
+          {
+            "roleCode": 0,
+            "roleName": "string"
+          }
+        ]
+      }
+    ]
+  ],
+  "companyId": "string",
+  "coverage": "string"
+}

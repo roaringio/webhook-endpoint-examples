@@ -1,0 +1,24 @@
+{
+  "changeType": " ",
+  "countryCodes": [
+    " "
+  ],
+  "keyMap": {
+    "companyId": "",
+    "personId": 0,
+    "personalNumber": " ",
+    "birthDate": " ",
+    "firstName": " ",
+    "lastName": " ",
+    "pepId": " ",
+    "referenceNumber": ""
+  },
+  "newAttributes": {},
+  "previousAttributes": {},
+  "messageId": "",
+  "object": {},
+  "requestType": " ",
+  "timestamp": 0,
+  "type": " ",
+  "version": " "
+}
