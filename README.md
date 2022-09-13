@@ -24,7 +24,7 @@ Webhook examples:
 
 
 ## Get started
-- When getting started using Roaring services you first create a account on [app.roaring.io](https://app.roaring.io)
+- When getting started using Roaring services you first create a account on [app.roaring.io/signup](https://app.roaring.io/signup?hl=en)
 - Clone the repository: ```git clone https://github.com/roaringio/webhook-endpoint-examples.git ```
 - Open either the Java or C# example project depending on your preference.
 
